@@ -1,11 +1,11 @@
 from user import user
 
 def main():
-    eli = user("OPMAGEMASTER", "#NA1")
-    # ethan = user("mingoose9", "#NA1")
-    # seb = user('정성화', '#5127')
+    me = user("OPMAGEMASTER", "#NA1")
+    # goose = user("mingoose9", "#NA1")
+    # sh = user('정성화', '#5127')
     
-    eli.update()
+    me.update()
 
     return 0
     
