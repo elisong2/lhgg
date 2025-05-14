@@ -1,0 +1,9 @@
+backend/__pycache__/
+backend/user_data/
+backend/testbench.py
+
+.venv/
+junk/
+personal/
+.vscode/
+
