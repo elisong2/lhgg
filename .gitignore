@@ -1,6 +1,7 @@
 backend/__pycache__/
 backend/user_data/
 backend/testbench.py
+backend/consts.py
 
 .venv/
 junk/
